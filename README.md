@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ettoreleandrotognoli&theme=dracula)](https://github.com/ettoreleandrotognoli)
 
-Some works:
+Some [OpenCIAg](https://github.com/OpenCIAg/) works:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenCIAg&repo=py-robot&theme=dracula)](https://github.com/OpenCIAg/py-robot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenCIAg&repo=BlueFairy&theme=dracula)](https://github.com/OpenCIAg/BlueFairy)
