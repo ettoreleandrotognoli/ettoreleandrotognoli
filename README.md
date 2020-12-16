@@ -3,6 +3,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/ettoreleandrotognoli)
 [<img src='https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/telegram-brands.svg' alt='telegram' height='24'>](https://t.me/ettoreleandrotognoli)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/messenger.svg' alt='messenger' height='24'>](https://m.me/ettoreleandrotognoli)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/discord.svg' alt='discord' height='24'>](https://discord.gg/Mr6yxp4ZE2)
 ![Profile views](https://gpvc.arturio.dev/ettoreleandrotognoli)
 
 ### Hi there 👋
