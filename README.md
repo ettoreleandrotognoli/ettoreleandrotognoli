@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ettoreleandrotognoli)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ettoreleandrotognoli&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ettoreleandrotognoli&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ettoreleandrotognoli&theme=dracula)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenCIAg&repo=py-robot&theme=dracula)](https://github.com/OpenCIAg/py-robot)
