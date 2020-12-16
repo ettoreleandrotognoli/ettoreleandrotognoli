@@ -1,5 +1,6 @@
 [<img style="color: white;" src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/github.svg' alt='github' height='24'>](https://github.com/ettoreleandrotognoli)
 [<img style="color: white;" src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/gitlab.svg' alt='gitlab' height='24'>](https://gitlab.com/ettoreleandrotognoli)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/ettore-leandro-tognoli/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/instagram.svg' alt='instagram' height='24'>](https://www.instagram.com/ettoreleandrotognoli/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/ettoreleandrotognoli)
 [<img src='https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/telegram-brands.svg' alt='telegram' height='24'>](https://t.me/ettoreleandrotognoli)
