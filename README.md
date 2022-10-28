@@ -4,7 +4,7 @@
 [![Discord Badge](https://img.shields.io/badge/Discord--blue?style=social&logo=discord&link=https://discord.gg/Mr6yxp4ZE2)](https://discord.gg/Mr6yxp4ZE2)
 [![Telegram Badge](https://img.shields.io/badge/Telegram--blue?style=social&logo=telegram&link=https://t.me/ettoreleandrotognoli)](https://t.me/ettoreleandrotognoli)
 [![Instagram Badge](https://img.shields.io/badge/Instagram--blue?style=social&logo=instagram&link=https://www.instagram.com/ettoreleandrotognoli/)](https://www.instagram.com/ettoreleandrotognoli/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter&link=https://twitter.com/EttoreTognoli)](https://twitter.com/EttoreTognoli)
+[![Twitter Badge](https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter&link=https://twitter.com/ettotog)](https://twitter.com/ettotog)
 ![Profile views](https://gpvc.arturio.dev/ettoreleandrotognoli)
 
 ### Hi there 👋
